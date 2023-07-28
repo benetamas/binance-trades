@@ -1,0 +1,12 @@
+{
+  "description": "Display trades from Binance",
+  "name": "Binance Trades",
+  "shell-version": [
+    "3.36",
+    "40",
+    "41",
+    "42"
+  ],
+  "uuid": "binance-trades@lycantrop.hu",
+  "version": 1
+}
